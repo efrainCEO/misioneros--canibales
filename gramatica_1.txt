@@ -1,0 +1,6 @@
+1. S -> ABC
+2. E -> b
+3. aaA -> aaBB
+4. B -> d
+5. A -> aE
+6. C -> dcd
